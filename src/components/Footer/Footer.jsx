@@ -8,7 +8,7 @@ export function Footer() {
                     <Anchor href="https://jeremydiaz.netlify.app/" target="_blank">
                         Acerca del creador
                     </Anchor>
-                    <Anchor href="https://github.com/jevmydev/navigatex" target="_blank">
+                    <Anchor href="https://github.com/jeremy-cdc/navigatex" target="_blank">
                         Código abierto
                     </Anchor>
                 </div>

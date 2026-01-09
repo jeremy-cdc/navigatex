@@ -21,7 +21,7 @@
 
 **¡Código abierto al mundo!**
 
--   Puedes utilizar el producto realizando un `git clone https://github.com/jevmydev/navigatex` en tu terminal.
+-   Puedes utilizar el producto realizando un `git clone https://github.com/jeremy-cdc/navigatex` en tu terminal.
 -   Luego emplear `npm run dev` en tu terminal para desplegar un entorno de desarrollo en la web.
 -   Es necesario crear el archivo `.env.local`.
 -   Después, crear las keys: `VITE_OPENAI_APIKEY` (generado en `https://platform.openai.com/docs/quickstart/build-your-application`).

@@ -17,10 +17,10 @@
     "author": "Jeremy Díaz",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jevmydev/navigatex.git"
+        "url": "git+https://github.com/jeremy-cdc/navigatex.git"
     },
     "bugs": {
-        "url": "https://github.com/jevmydev/navigatex/issues"
+        "url": "https://github.com/jeremy-cdc/navigatex/issues"
     },
     "start_url": "./index.html",
     "homepage": "https://navigatex.netlify.app/"
